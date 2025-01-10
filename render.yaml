@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: yuki-mediterranean
+    name: susuru-tv
     env: python
     region: Oregon
     plan: free
